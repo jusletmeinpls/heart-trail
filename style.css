@@ -6,7 +6,7 @@ body{
 }
 
 span{
-    background: url("https://cdn2.iconfinder.com/data/icons/free-1/128/Love__heart_like-512.png") no-repeat;
+    background: url("https://www.pngmart.com/files/15/Pink-Bunch-of-Balloons-PNG-Image.png") no-repeat;
     width: 100px;
     height: 100px;
     position: absolute;
@@ -15,7 +15,7 @@ span{
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    animation: animate 6s linear;
+    animation: animate 10s linear;
 }
 
 @keyframes animate {
@@ -31,3 +31,4 @@ span{
     }
     
 }
+
